@@ -1,0 +1,16 @@
+<html>
+<head>
+<title>my git</title>
+<style>
+h1
+{
+color:#16213E;
+background-color:#F5EDDC;
+font-family:Algerian;
+}
+</style>
+</head>
+</body>
+<h1>welcome to github</h1>
+</body>
+</html>
